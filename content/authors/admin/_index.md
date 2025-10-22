@@ -34,9 +34,9 @@ bio: I am a master's student in computer science at EPFL, and a research assista
 # Interests to show in About widget
 interests:
     - (Mechanistic) interpretability
-    - Reinforcement learning
+    - Foundation models
     - Meta-learning
-    - Machine learning applications in brain-computer interfaces and neuroprosthetics
+    # - Machine learning applications in brain-computer interfaces and neuroprosthetics
     #- Reinforcement learning
     #- Meta-learning
     #- Self-modeling
@@ -137,19 +137,22 @@ highlight_name: true
 
 <!-- While I approach these topics with a fairly multidisciplinary background, my primary focus is on the computational part, particularly in the following areas: -->
 
-My name is Jan, I am a master's student in computer science at EPFL and a research assistant at the [Autonomous Systems Group](https://autonomy.oden.utexas.edu/Groups/autonomous-systems-group) at the University of Texas at Austin, where I work on Large Language Models (LLMs) in strategy games. Additionally, I conduct research on world models for reinforcement learning agents at the [Biorobotics Laboratory](https://www.epfl.ch/labs/biorob/).
+My name is Jan, I am a master's student in computer science at EPFL and a research assistant at the [Autonomous Systems Group](https://autonomy.oden.utexas.edu/Groups/autonomous-systems-group) at the University of Texas at Austin, where I work on Large Language Models (LLMs) in strategy games.
+
+<!-- Additionally, I conduct research on world models for reinforcement learning agents at the [Biorobotics Laboratory](https://www.epfl.ch/labs/biorob/). -->
 
 At a high level, I am interested in **(1) understanding how our mind and cognition work** and **(2) building machines that can perceive, think, and learn**. This intersection of artificial intelligence and cognitive computational neuroscience excites me the most. Currently, my primary research interests include the following areas:
 - (Mechanistic) interpretability
-- Reinforcement learning
+- Foundation models
 - Meta-learning
-- Machine learning applications in brain-computer interfaces and neuroprosthetics
+<!-- - Machine learning applications in brain-computer interfaces and neuroprosthetics -->
 <!-- - Meta-learning and second-order perception
 - Test-time training -->
 
 I am always happy to discuss these topics, so if you have related thoughts or questions, please do not hesitate to [contact me](#contact).
 
-**Actively looking for a 6-month master's thesis internship in industry (Start: Feb 2026).**
+<!-- **Actively looking for a 6-month master's thesis internship in industry (Start: Feb 2026).** -->
+
 <!-- If you have strong opinions or an interest in machine consciousness, I'd be especially happy to hear from you :) -->
 
 ---
