@@ -1,13 +1,13 @@
 ---
-title: "Enhancing Fractional Gradient Descent with Learned Optimizers"
+title: "Do LLMs Strategically Reveal, Conceal, and Infer Information? A Theoretical and Empirical Analysis in The Chameleon Game"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+    - Mustafa O. Karabag
     - admin
-    - Petr Šimánek
-    - Pavel Kordík
+    - Ufuk Topcu
 
 # Author notes (optional)
 # author_notes:
@@ -15,11 +15,11 @@ authors:
 #   - "Equal contribution"
 #   - "Equal contribution"
 
-date: "2024-09-01T00:00:00Z"
-doi: "10.48550/arXiv.2510.18783"
+date: "2025-09-16T00:00:00Z"
+doi: "10.48550/arXiv.2501.19398"
 
 # Schedule page publish date (NOT publication"s date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-09-15T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -30,7 +30,7 @@ publication_types: ["Preprint"]
 publication: "*ArXiv*"
 # publication_short: ""
 
-abstract: Fractional Gradient Descent (FGD) offers a novel and promising way to accelerate optimization by incorporating fractional calculus into machine learning. Although FGD has shown encouraging initial results across various optimization tasks, it faces significant challenges with convergence behavior and hyperparameter selection. Moreover, the impact of its hyperparameters is not fully understood, and scheduling them is particularly difficult in non-convex settings such as neural network training. To address these issues, we propose a novel approach called Learning to Optimize Caputo Fractional Gradient Descent (L2O-CFGD), which meta-learns how to dynamically tune the hyperparameters of Caputo FGD (CFGD). Our method's meta-learned schedule outperforms CFGD with static hyperparameters found through an extensive search and, in some tasks, achieves performance comparable to a fully black-box meta-learned optimizer. L2O-CFGD can thus serve as a powerful tool for researchers to identify high-performing hyperparameters and gain insights on how to leverage the history-dependence of the fractional differential in optimization.
+abstract: Large language model-based (LLM-based) agents have become common in settings that include non-cooperative parties. In such settings, agents' decision-making needs to conceal information from their adversaries, reveal information to their cooperators, and infer information to identify the other agents' characteristics. To investigate whether LLMs have these information control and decision-making capabilities, we make LLM agents play the language-based hidden-identity game, The Chameleon. In this game, a group of non-chameleon agents who do not know each other aim to identify the chameleon agent without revealing a secret. The game requires the aforementioned information control capabilities both as a chameleon and a non-chameleon. We begin with a theoretical analysis for a spectrum of strategies, from concealing to revealing, and provide bounds on the non-chameleons' winning probability. The empirical results with GPT, Gemini 2.5 Pro, Llama 3.1, and Qwen3 models show that while non-chameleon LLM agents identify the chameleon, they fail to conceal the secret from the chameleon, and their winning probability is far from the levels of even trivial strategies. Based on these empirical results and our theoretical analysis, we deduce that LLM-based agents may reveal excessive information to agents of unknown identities. Interestingly, we find that, when instructed to adopt an information-revealing level, this level is linearly encoded in the LLM's internal representations. While the instructions alone are often ineffective at making non-chameleon LLMs conceal, we show that steering the internal representations in this linear direction directly can reliably induce concealing behavior.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -45,7 +45,7 @@ abstract: Fractional Gradient Descent (FGD) offers a novel and promising way to 
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: "https://arxiv.org/abs/2510.18783"
+url_pdf: "https://arxiv.org/abs/2501.19398"
 # url_code: "https://github.com/HugoBlox/hugo-blox-builder"
 # url_dataset: "https://github.com/HugoBlox/hugo-blox-builder"
 # url_poster: ""
