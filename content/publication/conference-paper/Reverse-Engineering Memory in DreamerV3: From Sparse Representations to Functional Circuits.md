@@ -44,8 +44,10 @@ abstract: Understanding how reinforcement learning (RL) agents with recurrent ne
 
 # # Custom links (uncomment lines below)
 links:
+- name: PDF
+  url: https://openreview.net/pdf?id=JmjqTi4FDF
 - name: OpenReview
-  url: https://openreview.net/forum?id=KKjt8VADoT
+  url: https://openreview.net/forum?id=JmjqTi4FDF
 
 # url_pdf: "https://openreview.net/forum?id=V3WQoshcZe"
 # url_code: "https://github.com/HugoBlox/hugo-blox-builder"
