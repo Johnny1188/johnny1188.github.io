@@ -45,8 +45,8 @@ abstract: As future superhuman models become increasingly complex, accurately su
 
 # # Custom links (uncomment lines below)
 links:
-- name: Poster
-  url: https://neurips.cc/virtual/2025/poster/116857
+- name: PDF
+  url: https://arxiv.org/abs/2510.21332
 - name: OpenReview
   url: https://openreview.net/forum?id=fEg31YjLct
 
