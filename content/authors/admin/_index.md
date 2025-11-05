@@ -137,12 +137,13 @@ highlight_name: true
 
 <!-- While I approach these topics with a fairly multidisciplinary background, my primary focus is on the computational part, particularly in the following areas: -->
 
-My name is Jan, I am a master's student in computer science at EPFL and a research assistant at the [Autonomous Systems Group](https://autonomy.oden.utexas.edu/Groups/autonomous-systems-group) at the University of Texas at Austin, where I work on Large Language Models (LLMs) in strategy games.
+My name is Jan, I am a master's student in computer science at **EPFL** and a research assistant at the [Autonomous Systems Group](https://autonomy.oden.utexas.edu/Groups/autonomous-systems-group) at the **University of Texas at Austin**, where I work on Large Language Models (LLMs) in strategy games.
 
 <!-- Additionally, I conduct research on world models for reinforcement learning agents at the [Biorobotics Laboratory](https://www.epfl.ch/labs/biorob/). -->
 
-At a high level, I am interested in **(1) understanding how our mind and cognition work** and **(2) building machines that can perceive, think, and learn**. This intersection of artificial intelligence and cognitive computational neuroscience excites me the most. Currently, my primary research interests include (mechanistic) interpretability, foundation models as the basis for autonomous systems, and more broadly, the science of deep learning.
+At a high level, I am interested in understanding how our mind works and in building machines that can perceive, think, and learn. Practically speaking, my research agenda is focused on **(i)** understanding *what* deep learning models learn and *why*, and **(ii)** using these insights to build more capable agents that can learn continually to solve long-horizon tasks.
 
+<!-- At a high level, I am interested in **(1) understanding how our mind and cognition work** and **(2) building machines that can perceive, think, and learn**. This intersection of artificial intelligence and cognitive computational neuroscience excites me the most. Currently, my primary research interests include (mechanistic) interpretability, foundation models as the basis for autonomous systems, and more broadly, the science of deep learning. -->
 <!-- - (Mechanistic) interpretability
 - Foundation models
 - Meta-learning -->
