@@ -29,13 +29,14 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include reinforcement learning, data-driven control, meta-learning, and self-modeling.
 # bio: I am a master's student in computer science at EPFL, and a research assistant at the MLBio Lab. I am interested in representation learning, (mechanistic) interpretability, meta-learning, reasoning, test-time training, and machine consciousness.
-bio: I am a master's student in computer science at EPFL and a research assistant at the Autonomous Systems Group at the University of Texas at Austin. I am interested in (mechanistic) interpretability, foundation models, the science of deep learning, and ML applications in brain-computer interfaces.
+bio: I am a master's student in computer science at EPFL and a research assistant at the Autonomous Systems Group at the University of Texas at Austin. I am interested in (mechanistic) interpretability, language models, the science of deep learning, and connections between AI and cognitive neuroscience.
 
 # Interests to show in About widget
 interests:
     - (Mechanistic) interpretability
-    - Foundation models
+    - Language models
     - Science of deep learning
+    - Connections between AI and cognitive neuroscience
     # - Machine learning applications in brain-computer interfaces and neuroprosthetics
     #- Reinforcement learning
     #- Meta-learning
@@ -141,7 +142,9 @@ My name is Jan, I am a master's student in computer science at **EPFL** and a re
 
 <!-- Additionally, I conduct research on world models for reinforcement learning agents at the [Biorobotics Laboratory](https://www.epfl.ch/labs/biorob/). -->
 
-At a high level, I am interested in understanding how our mind works and in building machines that can perceive, think, and learn. Practically speaking, my research agenda is focused on **(i)** understanding *what* deep learning models learn and *why*, and **(ii)** using these insights to build more capable agents that can learn continually to solve long-horizon tasks.
+<!-- At a high level, I am interested in understanding how our mind works and in building machines that can perceive, think, and learn. Practically speaking, my research agenda is focused on **(i)** understanding *what* deep learning models learn and *why*, and **(ii)** using these insights to build more capable agents that can learn continually to solve long-horizon tasks. -->
+
+At a high level, I am interested in understanding how our mind works and in building machines that can perceive, think, and learn. Practically speaking, my research focuses on **reverse-engineering deep learning models** to understand the internal mechanisms that give rise to intelligent behavior, how these mechanisms emerge during training, and why they break down in long-horizon or unfamiliar settings. I study neural networks both post-hoc and throughout training, linking training signals and optimization dynamics to the internal algorithms models form and the behaviors that follow. My goal is a scientific understanding that **(i)** enables principled training and architecture design, and **(ii)** yields insights into human learning and cognition.
 
 <!-- At a high level, I am interested in **(1) understanding how our mind and cognition work** and **(2) building machines that can perceive, think, and learn**. This intersection of artificial intelligence and cognitive computational neuroscience excites me the most. Currently, my primary research interests include (mechanistic) interpretability, foundation models as the basis for autonomous systems, and more broadly, the science of deep learning. -->
 <!-- - (Mechanistic) interpretability
