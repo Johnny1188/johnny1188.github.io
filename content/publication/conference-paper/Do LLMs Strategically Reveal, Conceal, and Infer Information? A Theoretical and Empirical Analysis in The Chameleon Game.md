@@ -15,19 +15,19 @@ authors:
 #   - "Equal contribution"
 #   - "Equal contribution"
 
-date: "2025-09-16T00:00:00Z"
+date: "2026-01-25T00:00:00Z"
 doi: "10.48550/arXiv.2501.19398"
 
 # Schedule page publish date (NOT publication"s date).
-publishDate: "2025-09-15T00:00:00Z"
+publishDate: "2026-01-29T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["Preprint"]
+publication_types: ["Accepted"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*ArXiv*"
+publication: "*Conference on Autonomous Agents and Multiagent Systems (**AAMAS 2026, Extended Abstract**)*"
 # publication_short: ""
 
 abstract: Large language model-based (LLM-based) agents have become common in settings that include non-cooperative parties. In such settings, agents' decision-making needs to conceal information from their adversaries, reveal information to their cooperators, and infer information to identify the other agents' characteristics. To investigate whether LLMs have these information control and decision-making capabilities, we make LLM agents play the language-based hidden-identity game, The Chameleon. In this game, a group of non-chameleon agents who do not know each other aim to identify the chameleon agent without revealing a secret. The game requires the aforementioned information control capabilities both as a chameleon and a non-chameleon. We begin with a theoretical analysis for a spectrum of strategies, from concealing to revealing, and provide bounds on the non-chameleons' winning probability. The empirical results with GPT, Gemini 2.5 Pro, Llama 3.1, and Qwen3 models show that while non-chameleon LLM agents identify the chameleon, they fail to conceal the secret from the chameleon, and their winning probability is far from the levels of even trivial strategies. Based on these empirical results and our theoretical analysis, we deduce that LLM-based agents may reveal excessive information to agents of unknown identities. Interestingly, we find that, when instructed to adopt an information-revealing level, this level is linearly encoded in the LLM's internal representations. While the instructions alone are often ineffective at making non-chameleon LLMs conceal, we show that steering the internal representations in this linear direction directly can reliably induce concealing behavior.
