@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: CS Master's Student & AI/ML Research Assistant
+role: CS Master's Student & Research Data Science Intern
 
 
 # Organizations/Affiliations to show in About widget
@@ -29,13 +29,13 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include reinforcement learning, data-driven control, meta-learning, and self-modeling.
 # bio: I am a master's student in computer science at EPFL, and a research assistant at the MLBio Lab. I am interested in representation learning, (mechanistic) interpretability, meta-learning, reasoning, test-time training, and machine consciousness.
-bio: I am a master's student in computer science at EPFL and a research assistant at the Autonomous Systems Group at the University of Texas at Austin. I am interested in (mechanistic) interpretability, language models, the science of deep learning, and connections between AI and cognitive neuroscience.
+bio: I am a master's student in computer science at EPFL and a research data science intern at AXA GO in Paris. My interests include mechanistic interpretability, language models, deep learning theory, and connections between AI and cognitive neuroscience.
 
 # Interests to show in About widget
 interests:
-    - (Mechanistic) interpretability
     - Language models
     - Science of deep learning
+    - (Mechanistic) interpretability
     - Connections between AI and cognitive neuroscience
     # - Machine learning applications in brain-computer interfaces and neuroprosthetics
     #- Reinforcement learning
@@ -138,13 +138,15 @@ highlight_name: true
 
 <!-- While I approach these topics with a fairly multidisciplinary background, my primary focus is on the computational part, particularly in the following areas: -->
 
-My name is Jan, I am a master's student in computer science at **EPFL** and a research assistant at the [Autonomous Systems Group](https://autonomy.oden.utexas.edu/Groups/autonomous-systems-group) at the **University of Texas at Austin**, where I work on Large Language Models (LLMs) in strategy games.
+<!-- My name is Jan, I am a master's student in computer science at **EPFL** and a research assistant at the [Autonomous Systems Group](https://autonomy.oden.utexas.edu/Groups/autonomous-systems-group) at the **University of Texas at Austin**, where I work on Large Language Models (LLMs) in strategy games. -->
+
+I am Jan, a master's student in computer science at **EPFL** and a research data science intern at **AXA GO** in Paris, where I work on understanding language model training.
 
 <!-- Additionally, I conduct research on world models for reinforcement learning agents at the [Biorobotics Laboratory](https://www.epfl.ch/labs/biorob/). -->
 
 <!-- At a high level, I am interested in understanding how our mind works and in building machines that can perceive, think, and learn. Practically speaking, my research agenda is focused on **(i)** understanding *what* deep learning models learn and *why*, and **(ii)** using these insights to build more capable agents that can learn continually to solve long-horizon tasks. -->
 
-At a high level, I am interested in understanding how our mind works and in building machines that can perceive, think, and learn. Practically speaking, my research focuses on **reverse-engineering deep learning models** to understand the internal mechanisms that give rise to intelligent behavior, how these mechanisms emerge during training, and why they break down in long-horizon or unfamiliar settings. My goal is a scientific understanding that **(i)** enables principled training and architecture design, and **(ii)** yields insights into human learning and cognition.
+At a high level, I am interested in understanding how our mind works and in building machines that can perceive, think, and learn. Practically speaking, my research focuses on **reverse-engineering deep learning models** to understand the internal mechanisms that give rise to intelligent behavior, how these mechanisms emerge during training, and why they break down in long-horizon or unfamiliar settings. My goal is a scientific understanding that enables principled training and architecture design.
 
 <!-- I study neural networks both post-hoc and throughout training, linking training signals and optimization dynamics to the internal algorithms models form and the behaviors that follow. -->
 
