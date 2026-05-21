@@ -36,7 +36,7 @@ interests:
     - Language models
     - Science of deep learning
     - (Mechanistic) interpretability
-    - Connections between AI and cognitive neuroscience
+    # - Connections between AI and cognitive neuroscience
     # - Machine learning applications in brain-computer interfaces and neuroprosthetics
     #- Reinforcement learning
     #- Meta-learning
