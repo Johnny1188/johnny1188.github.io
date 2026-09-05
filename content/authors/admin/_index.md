@@ -29,7 +29,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include reinforcement learning, data-driven control, meta-learning, and self-modeling.
 # bio: I am a master's student in computer science at EPFL, and a research assistant at the MLBio Lab. I am interested in representation learning, (mechanistic) interpretability, meta-learning, reasoning, test-time training, and machine consciousness.
-bio: I am a master's student in computer science at EPFL and a research data science intern at AXA GO in Paris. My interests include mechanistic interpretability, language models, deep learning theory, and connections between AI and cognitive neuroscience.
+# bio: I am a master's student in computer science at EPFL and a research data science intern at AXA GO in Paris. My interests include mechanistic interpretability, language models, deep learning theory, and connections between AI and cognitive neuroscience.
+bio: "I recently completed an MSc in computer science at EPFL and a research data science role at AXA GO in Paris, studying the development of inductive reasoning in language model training. I'm currently looking for AI/ML research or engineering roles in industry — I generalize well out of distribution and am happy to relocate! (note: the emdash is human generated)"
 
 # Interests to show in About widget
 interests:
@@ -142,7 +143,7 @@ highlight_name: true
 
 <!-- My name is Jan, I am a master's student in computer science at **EPFL** and a research assistant at the [Autonomous Systems Group](https://autonomy.oden.utexas.edu/Groups/autonomous-systems-group) at the **University of Texas at Austin**, where I work on Large Language Models (LLMs) in strategy games. -->
 
-I am Jan, a master's student in computer science at **EPFL** and a research data science intern at **AXA GO** in Paris, where I work on understanding language model training.
+I recently completed an MSc in computer science at **EPFL** and a research data science role at **AXA GO** in Paris, studying the development of inductive reasoning in language model training. **I'm currently looking for AI/ML research or engineering roles in industry** — I generalize well out of distribution and am happy to relocate! *(note: the emdash is human generated)*
 
 <!-- Additionally, I conduct research on world models for reinforcement learning agents at the [Biorobotics Laboratory](https://www.epfl.ch/labs/biorob/). -->
 
