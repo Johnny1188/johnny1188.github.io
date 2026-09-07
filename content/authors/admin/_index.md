@@ -17,20 +17,23 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: CS Master's Student & Research Data Science Intern
+role: Machine Learning Researcher & Engineer
+# role: CS Master's Student & Research Data Science Intern
 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-    - name: Swiss Federal Institute of Technology in Lausanne (EPFL)
+    - name: MSc, EPFL (2026)
       url: https://www.epfl.ch/en/
+    # - name: Swiss Federal Institute of Technology in Lausanne (EPFL)
+    #   url: https://www.epfl.ch/en/
 
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include reinforcement learning, data-driven control, meta-learning, and self-modeling.
 # bio: I am a master's student in computer science at EPFL, and a research assistant at the MLBio Lab. I am interested in representation learning, (mechanistic) interpretability, meta-learning, reasoning, test-time training, and machine consciousness.
 # bio: I am a master's student in computer science at EPFL and a research data science intern at AXA GO in Paris. My interests include mechanistic interpretability, language models, deep learning theory, and connections between AI and cognitive neuroscience.
-bio: "I recently completed an MSc in computer science at EPFL and a research data science role at AXA GO in Paris, studying the development of inductive reasoning in language model training. I'm currently looking for AI/ML research or engineering roles in industry — I generalize well out of distribution and am happy to relocate! (note: the emdash is human generated)"
+bio: "I recently completed an MSc in computer science at EPFL and a research data science role at AXA GO in Paris, studying the development of inductive reasoning in language model training. I'm currently looking for AI/ML research or engineering roles in industry — I generalize well out of distribution and am happy to relocate!"
 
 # Interests to show in About widget
 interests:
