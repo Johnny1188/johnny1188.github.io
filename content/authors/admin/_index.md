@@ -148,13 +148,13 @@ highlight_name: true
 
 <!-- My name is Jan, I am a master's student in computer science at **EPFL** and a research assistant at the [Autonomous Systems Group](https://autonomy.oden.utexas.edu/Groups/autonomous-systems-group) at the **University of Texas at Austin**, where I work on Large Language Models (LLMs) in strategy games. -->
 
-I recently completed an MSc in computer science at **EPFL** and a research data science role at **AXA GO** in Paris, where I studied how inductive reasoning develops during language model pre-training. I am currently a research assistant with Prof. Ufuk Topcu at **UT Austin**.
+I recently completed an MSc in computer science at **EPFL**, where my thesis studied how inductive reasoning develops during language model pre-training. I am now a research assistant with Prof. Ufuk Topcu at **UT Austin**.
 
 <!-- Additionally, I conduct research on world models for reinforcement learning agents at the [Biorobotics Laboratory](https://www.epfl.ch/labs/biorob/). -->
 
 <!-- At a high level, I am interested in understanding how our mind works and in building machines that can perceive, think, and learn. Practically speaking, my research agenda is focused on **(i)** understanding *what* deep learning models learn and *why*, and **(ii)** using these insights to build more capable agents that can learn continually to solve long-horizon tasks. -->
 
-My research focuses on **reverse-engineering deep learning models** to understand the internal mechanisms that give rise to intelligent behavior, how these mechanisms emerge during training, and why they break down in long-horizon or unfamiliar settings. Lately, I have been studying these questions in **language models**, especially how training data shapes what models learn and how they generalize. My goal is to turn these insights into a more predictive science of training and, ultimately, more reliable AI systems.
+My research focuses on **reverse-engineering deep learning models**: what internal mechanisms drive their behavior, how these emerge during training, and why they fail in unfamiliar settings. Currently, I study this in language models, especially how training data shapes what they learn and how they generalize. My goal is a predictive science of training that enables more reliable AI systems.
 
 <!-- My goal is a scientific understanding that enables principled training and architecture design. -->
 
