@@ -33,13 +33,15 @@ organizations:
 # bio: My research interests include reinforcement learning, data-driven control, meta-learning, and self-modeling.
 # bio: I am a master's student in computer science at EPFL, and a research assistant at the MLBio Lab. I am interested in representation learning, (mechanistic) interpretability, meta-learning, reasoning, test-time training, and machine consciousness.
 # bio: I am a master's student in computer science at EPFL and a research data science intern at AXA GO in Paris. My interests include mechanistic interpretability, language models, deep learning theory, and connections between AI and cognitive neuroscience.
-bio: "I recently completed an MSc in computer science at EPFL and a research data science role at AXA GO in Paris, studying the development of inductive reasoning in language model training. I'm currently looking for AI/ML research or engineering roles in industry — I generalize well out of distribution and am happy to relocate!"
+bio: "I recently completed an MSc in computer science at EPFL and a research data science role at AXA GO in Paris, studying the development of inductive reasoning in language model pre-training. I'm currently a research assistant with Prof. Ufuk Topcu at UT Austin."
 
 # Interests to show in About widget
 interests:
     - Language models
-    - Science of deep learning
+    - Learning dynamics
+    - Training data and generalization
     - (Mechanistic) interpretability
+    - AI safety and reliability
     # - Connections between AI and cognitive neuroscience
     # - Machine learning applications in brain-computer interfaces and neuroprosthetics
     #- Reinforcement learning
@@ -146,13 +148,15 @@ highlight_name: true
 
 <!-- My name is Jan, I am a master's student in computer science at **EPFL** and a research assistant at the [Autonomous Systems Group](https://autonomy.oden.utexas.edu/Groups/autonomous-systems-group) at the **University of Texas at Austin**, where I work on Large Language Models (LLMs) in strategy games. -->
 
-I recently completed an MSc in computer science at **EPFL** and a research data science role at **AXA GO** in Paris, studying the development of inductive reasoning in language model training. **I'm currently looking for AI/ML research or engineering roles in industry** — I generalize well out of distribution and am happy to relocate! *(note: the emdash is human generated)*
+I recently completed an MSc in computer science at **EPFL** and a research data science role at **AXA GO** in Paris, where I studied how inductive reasoning develops during language model pre-training. I am currently a research assistant with Prof. Ufuk Topcu at **UT Austin**.
 
 <!-- Additionally, I conduct research on world models for reinforcement learning agents at the [Biorobotics Laboratory](https://www.epfl.ch/labs/biorob/). -->
 
 <!-- At a high level, I am interested in understanding how our mind works and in building machines that can perceive, think, and learn. Practically speaking, my research agenda is focused on **(i)** understanding *what* deep learning models learn and *why*, and **(ii)** using these insights to build more capable agents that can learn continually to solve long-horizon tasks. -->
 
-At a high level, I am interested in understanding how our mind works and in building machines that can perceive, think, and learn. Practically speaking, my research focuses on **reverse-engineering deep learning models** to understand the internal mechanisms that give rise to intelligent behavior, how these mechanisms emerge during training, and why they break down in long-horizon or unfamiliar settings. My goal is a scientific understanding that enables principled training and architecture design.
+My research focuses on **reverse-engineering deep learning models** to understand the internal mechanisms that give rise to intelligent behavior, how these mechanisms emerge during training, and why they break down in long-horizon or unfamiliar settings. Lately, I have been studying these questions in **language models**, especially how training data shapes what models learn and how they generalize. My goal is to turn these insights into a more predictive science of training and, ultimately, more reliable AI systems.
+
+<!-- My goal is a scientific understanding that enables principled training and architecture design. -->
 
 <!-- I study neural networks both post-hoc and throughout training, linking training signals and optimization dynamics to the internal algorithms models form and the behaviors that follow. -->
 
@@ -164,7 +168,7 @@ At a high level, I am interested in understanding how our mind works and in buil
 <!-- - Meta-learning and second-order perception
 - Test-time training -->
 
-I am always happy to discuss these topics, so if you have related thoughts or questions, please do not hesitate to [contact me](#contact).
+<!-- I am always happy to discuss these topics, so if you have related thoughts or questions, please do not hesitate to [contact me](#contact). -->
 
 <!-- **Actively looking for a 6-month master's thesis internship in industry (Start: Feb 2026).** -->
 
