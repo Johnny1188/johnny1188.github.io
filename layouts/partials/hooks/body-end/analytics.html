@@ -1,2 +1,16 @@
 <script data-goatcounter="https://jsobotka.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
+<script>
+  function trackPdfClick(e) {
+    var a = e.target.closest('a[href]');
+    if (!a || !/\.pdf($|[?#])/i.test(a.href)) return;
+    if (!window.goatcounter || !window.goatcounter.count) return;
+    window.goatcounter.count({
+      path: 'pdf-' + a.pathname.split('/').pop(),
+      title: a.href,
+      event: true,
+    });
+  }
+  document.addEventListener('click', trackPdfClick);
+  document.addEventListener('auxclick', trackPdfClick);
+</script>
